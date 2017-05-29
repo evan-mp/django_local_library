@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 web: gunicorn locallibrary.wsgi --log-file -
+=======
+web: gunicorn locallibrary.wsgi --log-file -
+>>>>>>> ec7c4ce4f65c62a7ab46fcc534f5420e4d93fa2a
